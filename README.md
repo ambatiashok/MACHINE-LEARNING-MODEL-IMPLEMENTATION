@@ -173,6 +173,8 @@ standards, structured data handling, and practical machine learning implementati
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/7e628512-640b-43d6-87fd-df531483bae9)
+
 
 
 
